@@ -8,8 +8,8 @@
 [![Alqix's GitHub stats](https://github-readme-stats.vercel.app/api?username=alqix)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-* Discord: severdanin
-* Telegram: https://t.me/alqix
+* Discord: alqix
+* Telegram: https://t.me/alqix0
 * Matrix: @alp:envs.net
 
 ## Operating systems I used
