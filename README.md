@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 My name is Alp
 - 👀 I’m working on open-source projects.
-- 🌱 I’m currently learning AOSP, Linux.
+- 🌱 I’m currently learning AOSP, Linux and C.
 
 I am the founder of [Alqnisot](https://github.com/alqnisot) and maintainer of [crDroid](https://github.com/crdroidandroid).
 ___________
