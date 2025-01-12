@@ -13,7 +13,6 @@ ___________
 ## Contact
 * Discord: alqix
 * Telegram: @alqix0
-* Matrix: @alp:envs.net
 
 ## Top Projects
 [![Pin](https://github-readme-stats.vercel.app/api/pin/?username=alqix&hide_border=true&theme=apprentice&repo=dotfiles)](https://github.com/alqix/dotfiles)
