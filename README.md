@@ -1,23 +1,50 @@
-### Hi there 👋
-- 👋 My name is Alp
-- 👀 I’m working on open-source projects.
-- 🌱 I’m currently learning AOSP, Linux and C.
+<!-- Visually creative GitHub Profile README for alqix -->
 
-I am the founder of [Alqnisot](https://github.com/alqnisot) and maintainer of [crDroid](https://github.com/crdroidandroid).
-___________
-<p align="left">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alqix&show_icons=true&theme=dark&hide_border=true¾" />
- <p> <img src="https://komarev.com/ghpvc/?username=alqix&label=Profile%20views&color=ff0000&style=flat-square" alt="alqix" /></p>
+<div align="center">
+  <h1>Hi! I'm alqix 👋</h1>
+  <h3>Code Explorer | Linux & Rust Learner</h3>
+  <a href="https://alqix.com" target="_blank">
+    <img src="https://img.shields.io/badge/-alqix.com-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🖥️ Developer passionate about **C#** and creative technology
+- 🦀 Currently learning **Rust** and exploring the world of **Linux**
+- 📱 Working on Custom ROMS (notably <b>android_device_samsung_sm7325</b>)
+- 🎮 Gamer at heart—always up for new challenges in code and games!
+
+---
+
+## 🚀 Top Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-## Contact
-* Discord: alqix
-* Telegram: @alqix0
+---
 
-## Top Projects
-[![Pin](https://github-readme-stats.vercel.app/api/pin/?username=alqix&hide_border=true&theme=apprentice&repo=dotfiles)](https://github.com/alqix/dotfiles)
-<!---
-alqix/alqix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Featured Project
 
+### <img src="https://img.icons8.com/color/48/000000/android-os.png" width="28"/> android_device_samsung_sm7325
+
+> Custom Android device development for Samsung SM7325—pushing boundaries in mobile tech!
+
+---
+
+## 🌐 Find Me
+
+- 🌍 Website: [alqix.com](https://alqix.com)
+<!-- Add more social or contact links here if desired -->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</div>
